@@ -37,6 +37,9 @@
 
 * [Dimensions of Faith](https://www.gordonconwell.edu/dimensions-of-the-faith/) - Gordon Conwell Theological Seminary
 
+## Interpreting the Bible
+* [How to Read the Bible](https://www.biblicaltraining.org/read-bible/george-guthrie) - bibletraining.org - Dr. George Gunthrie
+
 ## Exploring the Old Testament
 * [Introduction to the Old Testament (Hebrew Bible)](https://oyc.yale.edu/NODE/241) - Yale - Christine Hayes
 * [Old Testament Survey](https://www.biblicaltraining.org/old-testament-survey/douglas-stuart?page=1) - bibletraining.org - Dr. Douglas Stuart
@@ -46,9 +49,6 @@
 * [Introduction to the New Testament History and Literature](https://oyc.yale.edu/NODE/246) - Yale - Dale B. Martin
 * [New Testament Survey - Gospels](https://www.biblicaltraining.org/new-testament-survey-1/robert-stein) - bibletraining.org - Dr. Robert Stein
 * [New Testament Survey - Acts to Revelation](https://www.biblicaltraining.org/new-testament-survey-2/robert-stein) - bibletraining.org - Dr. Robert Stein
-
-## Interpreting the Bible
-* [How to Read the Bible](https://www.biblicaltraining.org/read-bible/george-guthrie) - bibletraining.org - Dr. George Gunthrie
 
 ## Theology Survey I
 * [Systematic Theology I](https://www.biblicaltraining.org/systematic-theology-1/bruce-ware) - bibletraining.org - Dr. Bruce Ware
