@@ -1,6 +1,8 @@
 # Build A Certificate
 
+### All-in-One Course Collections
 * [Dimensions of Faith](https://www.gordonconwell.edu/dimensions-of-the-faith/) - Gordon Conwell Theological Seminary (GCTS)
+* [Bible Training Institute](https://www.biblicaltraining.org/institute) - bibletrianing.org
 
 ## Interpreting the Bible
 * [How to Read the Bible](https://www.biblicaltraining.org/read-bible/george-guthrie) - bibletraining.org - Dr. George Gunthrie
