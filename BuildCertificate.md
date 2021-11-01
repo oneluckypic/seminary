@@ -24,6 +24,7 @@
 * [Systematic Theology II](https://www.biblicaltraining.org/systematic-theology-2/bruce-ware) - bibletraining.org - Dr. Bruce Ware
 
 ## Spiritual Formation for Ministry
+[Loving a Lost World](https://www.gordonconwell.edu/dimensions-of-the-faith/#world-missions) - GCTS - Dr. Timothy Tennent
 
 ## Geography
 [Listen to the Land (Historical Geography)](https://www.biblicaltraining.org/listen-land/cyndi-parker) - bibletraining.org - Dr. Cyndi Parker
