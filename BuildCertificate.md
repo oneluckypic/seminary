@@ -1,9 +1,10 @@
 # Build A Certificate
 
-* [Dimensions of Faith](https://www.gordonconwell.edu/dimensions-of-the-faith/) - Gordon Conwell Theological Seminary
+* [Dimensions of Faith](https://www.gordonconwell.edu/dimensions-of-the-faith/) - Gordon Conwell Theological Seminary (GCTS)
 
 ## Interpreting the Bible
 * [How to Read the Bible](https://www.biblicaltraining.org/read-bible/george-guthrie) - bibletraining.org - Dr. George Gunthrie
+* [Studying the Bible for All Its Worth](https://www.gordonconwell.edu/dimensions-of-the-faith/#biblical-interpretation) - GCTS - Dr. Douglas Stuart
 
 ## Exploring the Old Testament
 * [Old Testament Survey](https://www.biblicaltraining.org/old-testament-survey/douglas-stuart?page=1) - bibletraining.org - Dr. Douglas Stuart
