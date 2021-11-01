@@ -32,3 +32,5 @@
 * Foundations of Theology
 * Biblical Interpretation
 * Theology and History
+
+### [Back to Home](README.md)
