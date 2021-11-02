@@ -20,6 +20,8 @@
 * [Romans](https://www.biblicaltraining.org/romans/douglas_moo) - bibletraining.org - Dr. Douglas Moo
 
 ## Theology Survey I
+
+* [Biblical Theology](https://www.biblicaltraining.org/biblical-theology/greg-beale) - bibletraining.org - Dr. Greg Beale
 * [Systematic Theology I](https://www.biblicaltraining.org/systematic-theology-1/bruce-ware) - bibletraining.org - Dr. Bruce Ware
 
 ## Theology Survey II
